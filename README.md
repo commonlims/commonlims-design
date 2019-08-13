@@ -10,11 +10,7 @@ Note that documentation for the system should be in https://github.com/commonlim
 Structure
 ---------
 
-Overall design docs are in:
-
-    arch/
-
-The system is divided into use case groups, e.g.:
+This documentation is divided into use case groups, e.g.:
 
     usecases/
         users-and-groups/
