@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile modified="2019-08-19T11:56:55.593Z" host="confluence.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="vBCq0eZE0UiB3fUAP2Ue" version="11.1.4" compressed="false">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="1402" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="345" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="240" y="10" width="1160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="320" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="240" y="171.5" width="666.5" height="459" as="geometry"/>
+        </mxCell>
+        <mxCell id="318" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="320" vertex="1">
+          <mxGeometry width="535" height="459" as="geometry"/>
+        </mxCell>
+        <mxCell id="265" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;html=1;whiteSpace=wrap;fillColor=#ffffff;" parent="320" vertex="1">
+          <mxGeometry x="10" y="44" width="510" height="397.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="266" value="96 well plate: AB-1001_PL1_org_180521" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="265" vertex="1">
+          <mxGeometry width="460" height="30" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="267" value="96 well plate: Test-0007_PL2_org_180206" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="265" vertex="1">
+          <mxGeometry width="460" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="269" value="96 well plate: Test-HiSeqX-Thruplex_PL1_org_181212" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="265" vertex="1">
+          <mxGeometry width="460" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="270" value="96 well plate: Test-HiSeqX-Thruplex_PL1_org_181213" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="265" vertex="1">
+          <mxGeometry width="460" height="30" relative="1" as="geometry">
+            <mxPoint y="90" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="272" value="Add all" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" parent="265" vertex="1">
+          <mxGeometry x="388" y="5" width="44" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="273" value="" style="shape=triangle;direction=south;fillColor=#000000;strokeColor=none;perimeter=none;" parent="265" vertex="1">
+          <mxGeometry x="441" y="102" width="10" height="5" as="geometry">
+            <mxPoint x="-15" y="-1.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="274" value="Add all" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" parent="265" vertex="1">
+          <mxGeometry x="388" y="94" width="44" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="275" value="Add all" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" parent="265" vertex="1">
+          <mxGeometry x="388" y="64" width="44" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="277" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;html=1;whiteSpace=wrap;fillColor=#ffffff;align=left;" parent="265" vertex="1">
+          <mxGeometry x="50" y="120" width="410" height="194.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="278" value="iSeqX-Thruplex-Jojo29 - E4 - gDNA" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="277" vertex="1">
+          <mxGeometry width="409.99999999999994" height="30" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="279" value="&lt;div style=&quot;text-align: right&quot;&gt;HiSeqX-Thruplex-Jojo30 - F4 - gDNA&lt;br&gt;&lt;/div&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="277" vertex="1">
+          <mxGeometry width="409.99999999999994" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="281" value="&lt;div style=&quot;text-align: left&quot;&gt;HiSeqX-Thruplex-Jojo31 - G4 - gDNA&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Project Name&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Some Project&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Species&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Mouse&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Date Submitted&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2019-05-11&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Workflow&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;NovaSeq ThruPlex v2&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="277" vertex="1">
+          <mxGeometry width="410" height="140" relative="1" as="geometry">
+            <mxPoint y="60" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="286" value="Add" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" parent="277" vertex="1">
+          <mxGeometry x="338" y="4" width="44" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="288" value="Add" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" parent="277" vertex="1">
+          <mxGeometry x="338" y="64" width="44" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="287" value="Add" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" parent="277" vertex="1">
+          <mxGeometry x="338" y="34" width="44" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="366" value="Expanding a sample shows sample details" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;" parent="277" vertex="1">
+          <mxGeometry x="294" y="95.5" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="305" value="Add all" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#3D8BCD;align=center;strokeColor=#3D8BCD;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" parent="265" vertex="1">
+          <mxGeometry x="388" y="34.5" width="44" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="322" value="3&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#999999;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;fontSize=10;" parent="265" vertex="1">
+          <mxGeometry x="355" y="96.5" width="25" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="323" value="22&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#999999;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;fontSize=10;" parent="265" vertex="1">
+          <mxGeometry x="352.5" y="67" width="25" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="325" value="10" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#999999;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;fontSize=10;" parent="265" vertex="1">
+          <mxGeometry x="350" y="8" width="25" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="326" value="7&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#999999;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;fontSize=10;" parent="265" vertex="1">
+          <mxGeometry x="350" y="37.5" width="25" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="304" value="Available Samples for &quot;Fragment Analyze&quot;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 22px ; background-color: rgb(241 , 241 , 241)&quot;&gt;⇊&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="320" vertex="1">
+          <mxGeometry x="15" y="19.5" width="505" height="3" as="geometry"/>
+        </mxCell>
+        <mxCell id="373" value="When clicked, this expands all containers as well as displays the details of all samples. Click again to collapse." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=none;direction=south;" parent="320" vertex="1">
+          <mxGeometry x="527.5" y="-56.5" width="105" height="152" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="25" y="106" width="210" height="590" as="geometry"/>
+        </mxCell>
+        <mxCell id="254" value="" style="group" parent="6" vertex="1" connectable="0">
+          <mxGeometry y="12" width="200" height="158" as="geometry"/>
+        </mxCell>
+        <mxCell id="220" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize5=;strokeColor=none;fillColor=#ffffff;" parent="254" vertex="1">
+          <mxGeometry width="200" height="158" as="geometry"/>
+        </mxCell>
+        <mxCell id="221" value="Available Work" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;align=left;spacingLeft=10;whiteSpace=wrap;resizeWidth=1;" parent="220" vertex="1">
+          <mxGeometry width="200" height="30" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="255" value="" style="group" parent="221" vertex="1" connectable="0">
+          <mxGeometry x="167" y="7" width="25" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="222" value="3&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;fillColor=#ffffff;strokeColor=none;fontColor=#3D8BCD;whiteSpace=wrap;" parent="221" vertex="1">
+          <mxGeometry x="1" y="0.5" width="25" height="16" relative="1" as="geometry">
+            <mxPoint x="-33" y="-8" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="223" value="Work in Prorgess" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fontColor=#3D8BCD;align=left;spacingLeft=10;whiteSpace=wrap;resizeWidth=1;" parent="220" vertex="1">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="32" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="224" value="Samples" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fontColor=#3D8BCD;align=left;spacingLeft=10;whiteSpace=wrap;resizeWidth=1;" parent="220" vertex="1">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="64" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="225" value="272" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;fillColor=#999999;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;" parent="224" vertex="1">
+          <mxGeometry x="1" y="0.5" width="25" height="16" relative="1" as="geometry">
+            <mxPoint x="-33" y="-8" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="226" value="&lt;span&gt;&lt;font color=&quot;#66b2ff&quot;&gt;Projects&lt;/font&gt;&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fontColor=#dddddd;align=left;spacingLeft=10;whiteSpace=wrap;resizeWidth=1;" parent="220" vertex="1">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="96" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="227" value="Assigned to me" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomRect;fontColor=#3D8BCD;align=left;spacingLeft=10;whiteSpace=wrap;resizeWidth=1;" parent="220" vertex="1">
+          <mxGeometry width="200" height="90" relative="1" as="geometry">
+            <mxPoint y="128" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="228" value="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;fillColor=#999999;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;" parent="227" vertex="1">
+          <mxGeometry x="1" y="0.5" width="25" height="16" relative="1" as="geometry">
+            <mxPoint x="-33" y="-8" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="239" value="2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;fillColor=#999999;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;" parent="220" vertex="1">
+          <mxGeometry x="1" y="0.5" width="25" height="16" relative="1" as="geometry">
+            <mxPoint x="-33.5" y="-41" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="220" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;CommonLIMS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="45" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="51" value="&lt;b&gt;Group by&lt;/b&gt;: Container" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;spacingRight=10;fontSize=14;whiteSpace=wrap;fillColor=#ffffff;align=center;" parent="1" vertex="1">
+          <mxGeometry x="697.5" y="37.5" width="230" height="29" as="geometry"/>
+        </mxCell>
+        <mxCell id="52" value="" style="shape=triangle;direction=south;fillColor=#000000;strokeColor=none;perimeter=none;" parent="51" vertex="1">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-20" y="-2.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56" value="&lt;b&gt;Sort by&lt;/b&gt;: Container name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;spacingRight=10;fontSize=14;whiteSpace=wrap;fillColor=#ffffff;align=center;" parent="1" vertex="1">
+          <mxGeometry x="943" y="38" width="180" height="27" as="geometry"/>
+        </mxCell>
+        <mxCell id="57" value="" style="shape=triangle;direction=south;fillColor=#000000;strokeColor=none;perimeter=none;" parent="56" vertex="1">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-20" y="-2.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="58" value="&lt;b&gt;Samples for &quot;Fragment Analyze&quot;&lt;/b&gt;&lt;br&gt;&lt;font face=&quot;Courier New&quot;&gt;user_task: fragment_analyze&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;spacingRight=10;fontSize=14;whiteSpace=wrap;fillColor=#ffffff;align=center;" parent="1" vertex="1">
+          <mxGeometry x="260" y="26" width="260" height="54" as="geometry"/>
+        </mxCell>
+        <mxCell id="59" value="" style="shape=triangle;direction=south;fillColor=#000000;strokeColor=none;perimeter=none;" parent="58" vertex="1">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-20" y="-2.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97" value="&lt;div&gt;Options:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Samples for &quot;Fragment Analyze&quot;&lt;/li&gt;&lt;li&gt;My Bookmarks&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
+          <mxGeometry x="265" y="-80" width="240" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="104" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1130" y="36" width="260" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="98" value="&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;user_task: fragment_analyze&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fillColor=#ffffff;rSize=5;strokeColor=#dddddd;align=left;spacingLeft=6;fontSize=14;fontColor=#dddddd;whiteSpace=wrap;" parent="104" vertex="1">
+          <mxGeometry width="260" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="99" value="X" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;strokeColor=#dddddd;fillColor=none;fontSize=14;whiteSpace=wrap;resizeHeight=1;" parent="98" vertex="1">
+          <mxGeometry x="1" width="40" height="30" relative="1" as="geometry">
+            <mxPoint x="-40" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="103" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;fillColor=#ffffff;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" parent="98" vertex="1">
+          <mxGeometry x="13.000000000000002" y="6" width="26.000000000000004" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="105" value="&lt;div&gt;Options:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Container&lt;/li&gt;&lt;li&gt;Project&lt;/li&gt;&lt;li&gt;None (ungrouped sample list)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
+          <mxGeometry x="730" y="-90" width="220" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="106" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The sort options should change depending on the selected &quot;Group by&quot;. For instance, if Container is selected the options might be:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Container name&lt;/li&gt;&lt;li&gt;Container id&lt;/li&gt;&lt;li&gt;Container num samples&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;While if &quot;None&quot; grouping is selected, user should be able to sort by Sample fields.&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
+          <mxGeometry x="950" y="-215" width="180" height="215" as="geometry"/>
+        </mxCell>
+        <mxCell id="107" value="&lt;div&gt;Filters:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;user_task&lt;/li&gt;&lt;li&gt;container_num_samples&lt;/li&gt;&lt;li&gt;container_id&lt;/li&gt;&lt;li&gt;container_name&lt;/li&gt;&lt;li&gt;bookmarks&lt;/li&gt;&lt;li&gt;sample_name&lt;/li&gt;&lt;li&gt;sample_id&lt;/li&gt;&lt;li&gt;sample_type (dna/rna)&lt;/li&gt;&lt;li&gt;sample_location&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="-153" width="190" height="153" as="geometry"/>
+        </mxCell>
+        <mxCell id="315" value="Begin Fragment Analyze &amp;gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#58B957;align=center;strokeColor=#58B957;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1161" y="111" width="240" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="316" value="Begin Fragment Analyze &amp;gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#58B957;align=center;strokeColor=#58B957;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1161" y="640" width="240" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="329" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="825" y="179.5" width="510" height="459" as="geometry"/>
+        </mxCell>
+        <mxCell id="319" value="" style="group" parent="329" vertex="1" connectable="0">
+          <mxGeometry x="65" y="-9" width="510" height="459" as="geometry"/>
+        </mxCell>
+        <mxCell id="317" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="319" vertex="1">
+          <mxGeometry width="510" height="459" as="geometry"/>
+        </mxCell>
+        <mxCell id="289" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;html=1;whiteSpace=wrap;fillColor=#ffffff;" parent="319" vertex="1">
+          <mxGeometry x="26" y="56" width="460" height="380" as="geometry"/>
+        </mxCell>
+        <mxCell id="293" value="96 well plate: Test-HiSeqX-Thruplex_PL1_org_foo" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="289" vertex="1">
+          <mxGeometry width="460" height="30" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="295" value="" style="shape=triangle;direction=south;fillColor=#000000;strokeColor=none;perimeter=none;" parent="289" vertex="1">
+          <mxGeometry x="441" y="12" width="10" height="5" as="geometry">
+            <mxPoint x="-15" y="-1.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="298" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;html=1;whiteSpace=wrap;fillColor=#ffffff;align=left;" parent="289" vertex="1">
+          <mxGeometry x="50" y="30" width="410" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="299" value="HiSeqX-Thruplex-foo1 - H4 - gDNA" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="298" vertex="1">
+          <mxGeometry width="409.99999999999994" height="30" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="300" value="&lt;div style=&quot;text-align: right&quot;&gt;HiSeqX-Thruplex-foo2 - H5 - gDNA&lt;br&gt;&lt;/div&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="298" vertex="1">
+          <mxGeometry width="409.99999999999994" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="301" value="&lt;div style=&quot;text-align: left&quot;&gt;HiSeqX-Thruplex-foo3 - H6 - gDNA&lt;br&gt;&lt;/div&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;" parent="298" vertex="1">
+          <mxGeometry width="409.99999999999994" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="310" value="X&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#DB524C;align=center;strokeColor=#DB524C;fontColor=#ffffff;fontSize=10;whiteSpace=wrap;" parent="298" vertex="1">
+          <mxGeometry x="342" y="6" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="311" value="X&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#DB524C;align=center;strokeColor=#DB524C;fontColor=#ffffff;fontSize=10;whiteSpace=wrap;" parent="298" vertex="1">
+          <mxGeometry x="342" y="34" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="312" value="X&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#DB524C;align=center;strokeColor=#DB524C;fontColor=#ffffff;fontSize=10;whiteSpace=wrap;" parent="298" vertex="1">
+          <mxGeometry x="342" y="65" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="307" value="Remove all" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#DB524C;align=center;strokeColor=#DB524C;fontColor=#ffffff;fontSize=10;whiteSpace=wrap;" parent="289" vertex="1">
+          <mxGeometry x="350" y="6" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="327" value="3&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=none;fillColor=#999999;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;fontSize=10;" parent="289" vertex="1">
+          <mxGeometry x="317" y="7.5" width="25" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="306" value="Selected Samples&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 22px ; background-color: rgb(241 , 241 , 241)&quot;&gt;⇊&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="319" vertex="1">
+          <mxGeometry x="20" y="13" width="470" height="27" as="geometry"/>
+        </mxCell>
+        <mxCell id="372" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="319" vertex="1">
+          <mxGeometry x="459" y="12" width="33" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="314" value="User should also be able to drag and drop individual samples or entire groups between the &quot;Available&quot; and &quot;Selected&quot; lists" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.62;direction=west;" parent="329" vertex="1">
+          <mxGeometry x="-75" y="221.5" width="230" height="123" as="geometry"/>
+        </mxCell>
+        <mxCell id="343" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="797" y="350" as="sourcePoint"/>
+            <mxPoint x="867" y="350" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="360" value="&amp;lt; Back to Select User Task" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#fff2cc;align=center;strokeColor=#d6b656;fontSize=16;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="240" y="111" width="240" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="362" value="&amp;lt; Back to Select User Task" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#fff2cc;align=center;strokeColor=#d6b656;fontSize=16;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="240" y="645" width="240" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="363" value="This button creates the Work Batch and relevant User Task Instance models with the selected samples and takes the user to&amp;nbsp;&lt;span&gt;/work-batch/&amp;lt;id&amp;gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1138" y="689" width="242" height="81" as="geometry"/>
+        </mxCell>
+        <mxCell id="364" value="" style="shape=triangle;direction=south;fillColor=#000000;strokeColor=none;perimeter=none;" parent="1" vertex="1">
+          <mxGeometry x="691" y="406.5" width="10" height="5" as="geometry">
+            <mxPoint x="-15" y="-1.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="369" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="732" y="178" width="33" height="33" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
