@@ -3,7 +3,7 @@
 for drawio_name in $(dir *.drawio)
 do
     name_without_ext="${drawio_name%.*}"
-    outfile=./svgs/${name_without_ext}.svg
+    outfile=./pngs/${name_without_ext}.png
     echo $outfile
     draw.io -o $outfile -x $drawio_name
 done
